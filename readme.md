@@ -1,0 +1,1 @@
+The program creats a hash table.
